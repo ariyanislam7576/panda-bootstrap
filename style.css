@@ -1,0 +1,36 @@
+.banner-bg{
+    background-color: #fceae8;
+}
+.panda-btn{
+    color: white;
+    background-color: #de1966;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 10px;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+.category img{
+    width: 100px;
+}
+.Watch{
+    background-color: #ffa500;
+}
+.bag{
+    background-color: #da70d6;
+}
+.shoe{
+    background-color: #0000ff;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: be;
+}
