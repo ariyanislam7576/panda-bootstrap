@@ -18,12 +18,18 @@
 }
 .Watch{
     background-color: #ffa500;
+    height: 200px;
+    width: 300px;
 }
 .bag{
-    background-color: #da70d6;
+    background-color: #de1966;
+    height: 200px;
+    width: 300px;
 }
 .shoe{
     background-color: #0000ff;
+    height: 200px;
+    width: 300px;
 }
 
 .container {
